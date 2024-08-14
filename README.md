@@ -1,4 +1,4 @@
-### Hi there! Stay awesome! 👋
+### Olá! 👋
 
 <!--
 **reggiegutter/reggiegutter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
